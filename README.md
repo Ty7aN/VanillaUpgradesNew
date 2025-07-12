@@ -1,5 +1,5 @@
-# VanillaUpgrades
-CREDITS TO BULL3TB0T. Adds more configurations to the base upgrade items similar to [MoreUpgrades](https://thunderstore.io/c/repo/p/BULLETBOT/MoreUpgrades) mod.
+# VanillaUpgradesNew
+CREDITS TO BULL3TB0T. Adds more configurations to the base upgrade items integrating the 2 new ones (Crouch Rest and Tumble Wings).
 ## Configuration
 - **Enabled**: Whether the upgrade item can be spawned to the shop.
 - **Max Amount**: The maximum number of times the upgrade item can appear in the truck.
